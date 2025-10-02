@@ -14,7 +14,8 @@
 [**📝 用户文档**](https://docs.mizuki.mysqil.com/)
 
 > [!WARNING]
-> 由于上游代码重构，此fork已被弃用！
+> 由于**上游代码重构**，此fork已被弃用！
+> 你也可以维护这个项目（如果你想的话）
 
 🌏 README 语言
 [**中文**](./README.md) /
