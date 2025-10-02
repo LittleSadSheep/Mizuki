@@ -13,6 +13,9 @@
 [**🖥️ 在线演示**](https://mizuki.mysqil.com/)
 [**📝 用户文档**](https://docs.mizuki.mysqil.com/)
 
+> [!WARNING]
+> 由于上游代码重构，此fork已被弃用！
+
 🌏 README 语言
 [**中文**](./README.md) /
 [**English**](./README.en.md) /
