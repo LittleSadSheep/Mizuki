@@ -14,7 +14,8 @@ A modern, feature-rich static blog template built with [Astro](https://astro.bui
 [**📝 Documentation**](https://docs.mizuki.mysqil.com/)
 
 > [!WARNING]
-> This fork has been deprecated due to upstream code refactoring!
+> This fork has been **deprecated due to upstream code refactoring**!
+> You can also maintain this project (if you want)
 
 🌏 README Languages
 [**中文**](./README.md) /
